@@ -2,5 +2,6 @@ node_modules
 .temp
 .cache
 .idea
+.DS_Store
 **/.vitepress/dist
 **/.vitepress/cache

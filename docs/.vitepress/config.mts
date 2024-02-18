@@ -117,8 +117,8 @@ function head(): HeadConfig[] {
           '/next/': '/next/explore-the-network',
           '/next/developer': '/next/developer/getting-started',
           '/next/developer/': '/next/developer/getting-started',
-          '/validator': '/next/developer/become-a-validator'
-          '/validator/': '/next/developer/become-a-validator'
+          '/validator': '/next/developer/become-a-validator',
+          '/validator/': '/next/developer/become-a-validator',
         }
         const redirect = redirects[window.location.pathname]
         if (redirect) {
