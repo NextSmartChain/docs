@@ -42,7 +42,7 @@ jobs:
           rm -rf package-lock.json node_modules
 
       - name: Install dependencies
-        run: npm install # or pnpm install / yarn install / bun install
+        run: npm install --force # or pnpm install / yarn install / bun install
 
       - name: Build with VitePress
         run: |
