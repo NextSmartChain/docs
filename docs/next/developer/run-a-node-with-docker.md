@@ -32,7 +32,7 @@ mkdir -p $HOME/.next
 
 ```shell [Full Node]
 docker run -d --name next \
-  -p 5050:5050 \
+  -p 5120:5120 \
   -v $HOME/.next:/root/.next \
   nextsmartchain.com/go-next:latest \
       --genesis mainnet.g
@@ -40,7 +40,7 @@ docker run -d --name next \
 
 ```shell [API Node]
 docker run -d --name next \
-  -p 5050:5050 \
+  -p 5120:5120 \
   -p 8545:8545 \
   -p 8546:8546 \
   -v $HOME/.next:/root/.next \
@@ -59,7 +59,7 @@ docker run -d --name next \
 
 ```shell [Validator Node]
 docker run -d --name next \
-  -p 5050:5050 \
+  -p 5120:5120 \
   -v $HOME/.next:/root/.next \
   nextsmartchain.com/go-next:latest \
       --genesis mainnet.g \
