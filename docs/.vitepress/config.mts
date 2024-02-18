@@ -99,7 +99,7 @@ export default defineConfig({
   },
 
   head: head(),
-  
+
   sitemap: {
     hostname: 'https://docs.nextsmartchain.com'
   }

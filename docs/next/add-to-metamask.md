@@ -22,26 +22,22 @@ Firstly, you’ll want to head over to the [MetaMask Download page](https://meta
 
 Next, follow along with the setup specified by the app. Go ahead and click Create a Wallet. Write down the backup seed phrase somewhere secret (preferably not on an Internet-connected device). Without this phrase, your funds can’t be recovered if your device is damaged or lost. Confirm that you’ve written them down on the next page.
 
-And that’s it! You should now see your wallet, ready to send and receive funds.
-
-- img
+**And that’s it! You should now see your wallet, ready to send and receive funds.**
 
 ## Configuring the wallet
 
 You might notice straight away that we’re still dealing with an Ethereum wallet.
 Let’s change that. We want to access the `Settings` to point the wallet towards Next Smart Chain nodes.
 
-- img
+On the Settings page, we want to locate the `Networks` menu.
 
-Select Settings from the dropdown menu.
+![Metamask Networks](metamask-networks.png)
 
-On the Settings page, we want to locate the Networks menu.
 
-- img
+After clicking on `Networks`, click on `Add Network` which is below. This will redirect to the MetaMask website, click on `Add a network manually`. Fill in the following details in the form:
 
-The Networks menu.
+![Metamask Details](metamask-details.png)
 
-We want to click `Add Network` in the top-right corner to `manually add the NEXT Smart Chain` one – it doesn’t come packaged with MetaMask. It’s important to note that there are two networks we can use here: the testnet or the mainnet. Below are the parameters to fill in for each.
 
 ### Mainnet
 
@@ -58,5 +54,3 @@ We want to click `Add Network` in the top-right corner to `manually add the NEXT
 
 
 Once you Save the Network and return to the main view, you’ll notice two things: the network has automatically been set to the one you just entered, and the units are no longer denominated in ETH, but in NEXT.
-
-- img
