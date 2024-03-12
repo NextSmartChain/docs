@@ -29,6 +29,7 @@ function sidebarNEXT(): DefaultTheme.SidebarItem[] {
         { text: 'Explore the Network', link: 'explore-the-network' },
         { text: 'Add to Metamask', link: 'add-to-metamask' },
         { text: 'Verified Addresses', link: 'verified-addresses' },
+        { text: 'Deploy Contracts', link: 'contract-deployment' },
       ],
     },
     {
