@@ -37,3 +37,9 @@ Here you find the `verified` addresses, tokens, smart contracts and dApps on NEX
 | 0x745ebfb05a2df0cf32d3f38a1fa86f84025fbd31 | PAYT         | PAYT     | 45M          | PayAccept               |
 | 0xb102e66b20676c21f142a35a01b34ea721913e5e | NEXTSHIB     | NEXTSHIB | 1B           | NextShib                |
 | 0x8a16afe5b902f0783500974224a39f765d5ea2fb | DOGE         | DOGE     | ∞            | Doge                    |
+
+## Official dApps
+
+| Address                             | Name      | Website                   | Note                                                 |
+|--------------------------------------------|-----------|---------------------------|------------------------------------------------------|
+| 0x61a1ca102e5e9384bb1460c0a7a00b3deb859ea1 | SimpleDex | https://dex.next.exchange | Simple decentralized exchange / Launchpad for tokens |
