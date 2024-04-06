@@ -203,14 +203,14 @@ tail -f /opt/homebrew/var/log/next.log
 sudo su next
 
 # Attach to the console
-next attach
+./next attach
 ```
 
 == MacOS
 
 ```shell
 # Attach to the console
-next attach
+./next attach
 ```
 
 :::

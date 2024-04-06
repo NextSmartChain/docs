@@ -31,13 +31,11 @@ sudo apt update -y
 sudo apt install -y wget
 
 # Download and install the package
-wget -O next-ubuntu20.04.zip \
-  https://github.com/NextSmartChain/next-binary/raw/main/next-ubuntu20.04.zip
+wget -O next-ubuntu20.04.zip https://github.com/NextSmartChain/next-binary/raw/main/next-ubuntu20.04.zip
 unzip next-ubuntu20.04.zip
 
 # Download the mainnet parameters
-wget -O mainnet.g \
-  https://github.com/NextSmartChain/next-binary/raw/main/mainnet.g
+wget -O mainnet.g https://github.com/NextSmartChain/next-binary/raw/main/mainnet.g
 ```
 
 == Ubuntu (arm64)
@@ -48,13 +46,11 @@ sudo apt update -y
 sudo apt install -y wget
 
 # Download and install the package
-wget -O next-ubuntu20.04.zip \
-  https://github.com/NextSmartChain/next-binary/raw/main/next-ubuntu20.04.zip
+wget -O next-ubuntu20.04.zip https://github.com/NextSmartChain/next-binary/raw/main/next-ubuntu20.04.zip
 unzip next-ubuntu20.04.zip
 
 # Download the mainnet parameters
-wget -O mainnet.g \
-  https://github.com/NextSmartChain/next-binary/raw/main/mainnet.g
+wget -O mainnet.g https://github.com/NextSmartChain/next-binary/raw/main/mainnet.g
 ```
 
 == MacOS
@@ -65,13 +61,11 @@ sudo apt update -y
 sudo apt install -y wget
 
 # Download and install the package
-wget -O next-mac-m1.zip \
-  https://github.com/NextSmartChain/next-binary/raw/main/next-mac-m1.zip
+wget -O next-mac-m1.zip https://github.com/NextSmartChain/next-binary/raw/main/next-mac-m1.zip
 unzip next-mac-m1.zip
 
 # Download the mainnet parameters
-wget -O mainnet.g \
-  https://github.com/NextSmartChain/next-binary/raw/main/mainnet.g
+wget -O mainnet.g https://github.com/NextSmartChain/next-binary/raw/main/mainnet.g
 ```
 
 == Source

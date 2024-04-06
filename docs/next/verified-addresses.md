@@ -42,4 +42,12 @@ Here you find the `verified` addresses, tokens, smart contracts and dApps on NEX
 
 | Address                             | Name      | Website                   | Note                                                 |
 |--------------------------------------------|-----------|---------------------------|------------------------------------------------------|
-| 0x61a1ca102e5e9384bb1460c0a7a00b3deb859ea1 | SimpleDex | https://dex.next.exchange | Simple decentralized exchange / Launchpad for tokens |
+| 0xe717d88af1894df9697a5eddec1efe763cba66e0 | SimpleDex | https://dex.next.exchange | Simple decentralized exchange / Launchpad for tokens |
+
+## Official Website
+| Website                             | Name                                       | 
+|-------------------------------------|--------------------------------------------|
+| https://www.nextsmartchain.com      | Official website                           |
+| https://wallet.nextsmartchain.com   | Online Wallet build for Next Smart Chain   |
+| https://explorer.nextsmartchain.com | Official explorer                          |
+| https://dex.next.exchange           | Decentralized Exchange for exchanging NEXT |

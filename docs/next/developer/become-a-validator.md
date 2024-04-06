@@ -61,7 +61,7 @@ Check your balance after sending the collateral:
 
 ```shell
 # Attach to the console
-$ next attach
+$ ./next attach
 
 # In the console
 next.getBalance('YOUR_VALIDATOR_ADDRESS')
@@ -83,19 +83,19 @@ Set a strong password when prompted.
 == Linux Service
 
 ```shell [Linux Service]
-next validator new
+./next validator new
 ```
 
 == MacOS Service
 
 ```shell [MacOS Service]
-next validator new
+./next validator new
 ```
 
 == With Command Flags
 
 ```shell [With Command Flags]
-next validator new
+./next validator new
 ```
 
 :::

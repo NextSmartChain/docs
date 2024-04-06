@@ -17,7 +17,7 @@ head:
 Sometimes it's good to check if the validator is up and running, otherwise you will miss some of your NEXT rewards. To check go to the console:
 
 ```shell
-$ next attach
+$ ./next attach
 sfc.getStaker(YOUR_VALIDATOR_ID)
 ```
 

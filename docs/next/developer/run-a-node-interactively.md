@@ -21,11 +21,11 @@ Continue to [Running Node Service](./run-a-node-service.md) for a production rea
 :::code-group
 
 ```shell [Full Node]
-next --genesis mainnet.g
+./next --genesis mainnet.g
 ```
 
 ```shell [API Node]
-next --genesis mainnet.g \
+./next --genesis mainnet.g \
    --http \
    --http.port 8545 \
    --http.addr 0.0.0.0 \
@@ -38,7 +38,7 @@ next --genesis mainnet.g \
 ```
 
 ```shell [Validator Node]
-next --genesis mainnet.g \
+./next --genesis mainnet.g \
    --validator.id YOUR_VALIDATOR_ID \
    --validator.pubkey YOUR_VALIDATOR_PUBKEY \
    --validator.password ~/.next/.password
@@ -49,5 +49,5 @@ next --genesis mainnet.g \
 > See a full list of command line flags:
 
 ```shell
-next --help
+./next --help
 ```
